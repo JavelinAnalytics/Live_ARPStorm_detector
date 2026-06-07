@@ -33,6 +33,6 @@ The program will display available network interfaces and prompt the user to sel
 
 ## Configuration
 The following values can be modified within the script:
-1. CAPTURE_SECONDS   the duration of packet capture
-2. THRESHOLD         ARP request/second required to declare a storm (default=20)
+1. CAPTURE_SECONDS:    the duration of packet capture
+2. THRESHOLD:    ARP request/second required to declare a storm (default=20)
 
